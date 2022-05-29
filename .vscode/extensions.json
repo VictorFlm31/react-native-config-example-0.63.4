@@ -7,7 +7,8 @@
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "naumovs.color-highlight",
-    "dsznajder.es7-react-js-snippets"
+    "dsznajder.es7-react-js-snippets",
+    "editorconfig.editorconfig"
   ],
   // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
   "unwantedRecommendations": []
